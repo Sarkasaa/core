@@ -44,7 +44,7 @@
       "type": "python",
       "request": "attach",
       "port": 5678,
-      "host": "homeassistant.local",
+      "host": "hassio.home.arpa",
       "pathMappings": [
         {
           "localRoot": "${workspaceFolder}",
